@@ -24,7 +24,11 @@ AI Pathfinding example based on https://learn.unity.com/tutorial/unity-navmesh?p
 # Description
 Monster walking.
 
-<img src="images/screenshot.png" width="100">
+<img src="images/pathfinding3.png" width="400">
 
 # Player Objectives
 - Click where you want to go
+
+<img src="images/pathfinding.gif" width="400">
+
+<img src="images/pathfinding2.gif" width="400">
